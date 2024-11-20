@@ -1,0 +1,48 @@
+# Ignore the build directory
+/build/
+
+# Ignore the Gradle wrapper files
+/gradle/
+/gradle-wrapper.jar
+
+# Ignore Android Studio specific files
+/.idea/
+/*.iml
+*.hprof
+
+# Ignore local configuration files
+/local.properties
+/.cxx/
+/*.log
+*/.DS_Store
+
+# Ignore files related to Android APKs, AARs, and logs
+*.apk
+*.aar
+*.ap_ 
+*.dex
+
+# Ignore JUnit test results
+/test-results/
+/build/test-results/
+
+# Ignore generated Java classes
+/gen/
+
+# Ignore keystore files
+*.jks
+*.keystore
+
+# Ignore Android Studio 3.0+ build files
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/gradle.xml
+
+# Ignore any files created by NDK
+/local/ndk/
+
+# Ignore environment specific files
+*.swp
+*.swo

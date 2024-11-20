@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">vari_monitoring</string>
+    <string name="intro_title">Pandharpur</string>
+    <string name="pand_inf">Why is Pandharpur so famous ?</string>
+    <string name="pand_desc">It is a major holy place in Maharashtra and it is also called South Kashi (Dakshin Kashi) in Maharashtra. It is famous for the Lord Vitthala temple situated on the bank of Bhima river. Bhima river is also known as Chandrabhaga as it takes shape like crescent moon near the town.</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
